@@ -1,0 +1,20 @@
+{
+  "Group": "cl.hytalechile",
+  "Name": "HytaleChileCore",
+  "Version": "1.0.0",
+  "Description": "Hytale Chile Core Plugin para Hytale",
+  "Main": "cl.hytalechilecore.HytaleChileCore",
+  "Authors": [
+    {
+      "Name": "Hytale Chile",
+      "Website": "https://github.com/PabloB07"
+    }
+  ],
+  "Website": "https://github.com/PabloB07/hytale-chile-core",
+  "ServerVersion": ">=0.0.1",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false
+}
